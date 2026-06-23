@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "versionCode": 61,
+  "versionName": "1.1",
+  "force": false,
+  "apkUrl": "https://github.com/YIR3H77-MODD/Pulse-Updates/releases/download/v61/Pulse-premium-v61.apk",
+  "changelog": [
+    "Mejoras en descargas",
+    "Corrección de errores",
+    "Mejor estabilidad del reproductor"
+  ]
+}
